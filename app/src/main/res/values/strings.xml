@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geek2022</string>
+    <string name="connect">車に接続</string>
+    <string name="disconnect">切断</string>
+    <string name="unlock">解錠</string>
+    <string name="lock">施錠</string>
+    <string name="search_vehicle">車両を検索中…</string>
+    <string name="connecting_vehicle">車両に接続中…</string>
+    <string name="connected">車両に接続されました</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
