@@ -1,12 +1,16 @@
 <resources>
-    <string name="app_name">Geek2022</string>
+    <string name="app_name">まちのり！</string>
     <string name="connect">車に接続</string>
     <string name="disconnect">切断</string>
     <string name="unlock">解錠</string>
     <string name="lock">施錠</string>
     <string name="search_vehicle">車両を検索中…</string>
     <string name="connecting_vehicle">車両に接続中…</string>
-    <string name="connected">車両に接続されました</string>
+    <string name="connected">に接続されました</string>
+    <string name="connection_failed">接続に失敗</string>
+    <string name="disabled">機能を使用不可</string>
+    <string name="input_vehicle_name">車両名を入力</string>
+    <string name="retry_search">再検索</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
